@@ -7,7 +7,7 @@
 
 4.Dependencies and Versions: The dependencies used in this application, such as React,react-hook-form,material UI,tailwind css.
 
-5.Installation Steps: "yarn add https://github.com/msbala007/GREENDZINE-ASSIGNMENT.git"
+5.Installation Steps: "yarn add https://github.com/msbala007/cavintek.git"
 
 6.Available Scripts: scripts for run the application " yarn dev "
 
